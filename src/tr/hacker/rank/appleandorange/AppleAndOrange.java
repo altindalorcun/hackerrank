@@ -2,7 +2,7 @@ package tr.hacker.rank.appleandorange;
 
 import java.util.List;
 
-public class Main {
+public class AppleAndOrange {
 
     public static void countApplesAndOranges(int s, int t, int a, int b, List<Integer> apples, List<Integer> oranges) {
 
