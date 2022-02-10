@@ -29,5 +29,8 @@ public class BreakingTheRecords {
 
         List<Integer> results1 = breakingRecords(List.of(3, 4, 21, 36, 10, 28, 35, 5, 24, 42));
         results1.forEach(result -> System.out.print(result + " "));
+
+        List<Integer> results2 = breakingRecords(List.of(0, 4, 21, 36, 10, 28, 35, 5, 24, 42));
+        results2.forEach(result -> System.out.print(result + " "));
     }
 }
