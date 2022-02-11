@@ -23,7 +23,6 @@ public class SubarrayDivision {
         System.out.println(birthday(List.of(1, 2, 1, 3, 2), 3, 2) == 2);
         System.out.println(birthday(List.of(1, 1, 1, 1, 1, 1), 3, 2) == 0);
         System.out.println(birthday(List.of(4), 4, 1) == 1);
-        System.out.println(birthday(List.of(2, 3, 4, 1, 1, 1, 2, 3), 4, 3));
 
     }
 }
